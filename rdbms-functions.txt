@@ -1,0 +1,6 @@
+Relational Database Management Systems main functions(RDBMS)
+
+	- Multi-user access controlled by one or more user(admin or root).
+	- Provides retrieving data by index .
+	- Provides a virtual table creation in which sensitive data can be stored and simplified query can be applied.
+	- Sharing a common column in two or more tables(primary key and foreign key).

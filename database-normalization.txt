@@ -1,0 +1,11 @@
+I. Database schema normalization:
+	Normalization involves decomposing a table into less redundant (and smaller) tables but without losing information;
+        defining foreign keys in the old table referencing the primary keys of the new ones. 
+
+II. Advantages of Normalized Database:
+	- It opens the opportunity additions, deletions, and modifications of an attribute can be made in just one table and then propagated through
+        the rest of the database using the defined foreign keys.
+	- Index searching is more faster than the other search types.
+	- Adaptive Server is optimized to keep higher levels of the index in cache, so each join performs only one or two physical I/Os for each matching row.
+	- More tables. Plus more rows per page.
+	- Fewer null values and less redundant data, making your database more compact.

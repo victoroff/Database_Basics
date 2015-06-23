@@ -1,0 +1,13 @@
+NoSQL Database
+
+ 1. NOSQL Database  database provides a mechanism for storage and retrieval of data that is modeled
+    in means other than the tabular relations used in relational databases.
+
+Some examples are :
+	- MongoDB - MongoDB’s document data model makes it easy for you to store data of any structure and dynamically modify the schema.
+	- Cassandra - massively scalable, partitioned row store, masterless architecture, linear scale performance, no single points of failure
+	- Google Spanner - many nodes, using GPS
+	- GraphDB
+	- Apache Giraph
+	- BlinkDB
+	- Apache Spark

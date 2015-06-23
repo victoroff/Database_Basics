@@ -1,0 +1,15 @@
+SQL Language
+
+ What type of language is SQL?
+	Structured Query Language(SQL) is a special-purpose programming language for relational model databases.
+
+ What is its purpose?
+	It is designed for managing data held in a relational database management system (RDBMS), or for stream processing in a relational data stream management system (RDSMS).
+
+ Example:
+	"CASE WHEN n > 0
+  	           THEN 'positive'
+              WHEN n < 0
+                   THEN 'negative'
+              ELSE 'zero'
+         END "

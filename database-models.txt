@@ -1,0 +1,17 @@
+Database Models:
+
+1. Relational:
+	- It's based on first-order predicate logic.Most databases from this model use SQL queries. The Sequence of Columns and Rows are Insignificant. Also each Column has unique name and it's values are of the same kind.
+2. Document:
+	- Document based model is one of the main categories of NoSQL databases. It's purpose is to store, manage and retrieve document information.
+3. Object:
+	- Object-oriented database management systems (OODBMSs) modifies in strong way the Object- oriented programming(OOP) by allowing the developers to create, store or modify existing objects.That's able because
+	  the database is integrated with the programming language.  
+4. Network:
+	- Network database model is well know of it's flexibility for representing objects and their relations.That means it's alot different from  hierarchical model because each of it's records can have multiple parent and children records.
+5. Associative Model
+	- The associative model divides the real-world things about which data is to be recorded into two sorts:
+	  Entities are things that have discrete, independent existence. An entity's existence does not depend on any other thing. Associations are things whose existence depends on one or more other things, such that if any of those things ceases to exist, then the thing itself ceases to exist or becomes meaningless.
+	  An associative database comprises two data structures:
+		1. A set of items, each of which has a unique identifier, a name and a type.
+		2. A set of links, each of which has a unique identifier, together with the unique identifiers of three other things, that represent the source source, verb and target of a fact that is recorded about the source in the database. Each of the three things identified by the source, verb and target may be either a link or an item.
